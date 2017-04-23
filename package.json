@@ -1,0 +1,14 @@
+{
+  "name": "node-debugger",
+  "version": "1.0.0",
+  "description": "Mini-course on Node.js Debugging by Andrew J Mead",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
